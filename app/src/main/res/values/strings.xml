@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">asr_tts_demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="start">点击开始</string>
+    <string name="stop">点击停止</string>
+    <string name="log_area">日志区域</string>
+    <string name="speaker_on">扬声器开</string>
+    <string name="speaker_off">扬声器关</string>
+    <string name="mute_on">静音开</string>
+    <string name="mute_off">静音关</string>
+    <string name="clear">清除日志</string>
+
+</resources>

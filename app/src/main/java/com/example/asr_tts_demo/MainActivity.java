@@ -128,6 +128,7 @@ public class MainActivity extends Activity implements IAudioRecorderHandler, ILo
              // 不使用硬件 AEC，某些手机硬件 AEC 效果很差
              .setUseHardwareAcousticEchoCanceler(false)
              // 不使用硬件 NS，某些手机硬件 AEC 效果较差
+             // 设置为 false 将使用 WebRtc 降噪算法进行代替。
              .setUseHardwareNoiseSuppressor(false)
              .create();
     recorder = new AudioRecorder(am, "pcm_s16le_16k", 1000);

@@ -5,57 +5,55 @@
 5    android:versionName="1.0" >
 6
 7    <uses-sdk
-7-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:7:5-9:41
 8        android:minSdkVersion="21"
-8-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:8:9-35
+8-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="21" />
-9-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:9:9-38
+9-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-11-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:11:5-81
-11-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:11:22-78
+11-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:9:5-81
+11-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:9:22-78
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:12:5-67
-12-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:12:22-64
+12-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:10:5-67
+12-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:10:22-64
 13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-13-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:13:5-79
-13-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:13:22-76
+13-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:11:5-79
+13-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:11:22-76
 14    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-14-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:14:5-71
-14-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:14:22-68
+14-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:12:5-71
+14-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:12:22-68
 15    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
-15-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:15:5-80
-15-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:15:22-77
+15-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:13:5-80
+15-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:13:22-77
 16
 17    <application
-17-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:17:5-31:19
+17-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:15:5-29:19
 18        android:allowBackup="true"
-18-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:18:9-35
+18-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:16:9-35
 19        android:debuggable="true"
 20        android:icon="@drawable/ic_launcher"
-20-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:19:9-45
+20-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:17:9-45
 21        android:label="@string/app_name"
-21-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:20:9-41
-22        android:testOnly="true"
-23        android:theme="@style/AppTheme" >
-23-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:21:9-40
-24        <activity
-24-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:22:9-30:20
-25            android:name="com.example.asr_tts_demo.MainActivity"
-25-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:23:13-41
-26            android:label="@string/app_name" >
-26-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:24:13-45
-27            <intent-filter>
-27-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:25:13-29:29
-28                <action android:name="android.intent.action.MAIN" />
-28-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:26:17-69
-28-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:26:25-66
-29
-30                <category android:name="android.intent.category.LAUNCHER" />
-30-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:28:17-77
-30-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:28:27-74
-31            </intent-filter>
-32        </activity>
-33    </application>
-34
-35</manifest>
+21-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:18:9-41
+22        android:theme="@style/AppTheme" >
+22-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:19:9-40
+23        <activity
+23-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:20:9-28:20
+24            android:name="com.example.asr_tts_demo.MainActivity"
+24-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:21:13-41
+25            android:label="@string/app_name" >
+25-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:22:13-45
+26            <intent-filter>
+26-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:23:13-27:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:24:17-69
+27-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:24:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:26:17-77
+29-->E:\Projectplace\10.5SDK\asr_tts_demo1\app\src\main\AndroidManifest.xml:26:27-74
+30            </intent-filter>
+31        </activity>
+32    </application>
+33
+34</manifest>

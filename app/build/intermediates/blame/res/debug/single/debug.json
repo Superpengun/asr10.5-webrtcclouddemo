@@ -22,5 +22,9 @@
     {
         "merged": "E:\\Projectplace\\10.5SDK\\asr_tts_demo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
         "source": "E:\\Projectplace\\10.5SDK\\asr_tts_demo1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Projectplace\\10.5SDK\\asr_tts_demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_laohu.jpg.flat",
+        "source": "E:\\Projectplace\\10.5SDK\\asr_tts_demo1\\app\\src\\main\\res\\drawable-xhdpi\\laohu.jpg"
     }
 ]

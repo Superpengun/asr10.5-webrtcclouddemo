@@ -1,6 +1,7 @@
 int dimen activity_horizontal_margin 0x7f010000
 int dimen activity_vertical_margin 0x7f010001
 int drawable ic_launcher 0x7f020000
+int drawable laohu 0x7f020001
 int id LinearLayout1 0x7f030000
 int id action_settings 0x7f030001
 int id btn_clear 0x7f030002
